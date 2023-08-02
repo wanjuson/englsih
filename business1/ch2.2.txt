@@ -6,19 +6,22 @@
 2. 필수 어휘
 prominent 유능한
 publicly 공객적인
-methodology 방법
-principle 원리
+methodology 방법 methodology 
+principle 원리 principle
 selected 선별된
 applicant 지원자
 coined N 동전, 주화 / V : (새로운 낱말어구를) 만들다, (주화를) 주조하다,
-term : 낱말
+term : 낱말, 용어, 기간
+big < huge
+philsophy 철학, 신념
+Private 사적인, 개인적인 private
 
 
 3. 실전 대화
 A: Several prominent high-tech companies have begun to publicly employ the lean start up methodology.
 몇몇 유명한 기술 회사들이 공객적으로 린 스타트업 방식을 채택하기 시작했어요.
 B: That's a huge change! 
-큰 변화네요.
+(매우) 큰 변화네요.
 
 A: He wote his philsophy on his blog with a post titled "The lean startup"
 그의 블로그에 "린 스타트업" 이라는 제목의 포스팅에 자신의 철학에 대해 썻어요.
@@ -31,7 +34,7 @@ B: I've read it.
 It is private agency built on the lean startup model.
 
 2. 린 스타트업이라는 용어는 누가 만들어 냈지요?
-The coined the term the lean startup?
+Who coined the term the lean startup?
 
 3. 선별된 지원자들은 5주의 린 스타트업 훈련을 제공받았어요.
 The selected applicants were provided with 5 weeks of training in the lean startup methodolgy.

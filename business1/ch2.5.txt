@@ -4,7 +4,7 @@
 
 
 2. 필수 어휘
-shareholder 주주
+shareholder 주주 shareholder
 control over ~에 관한 통제권
 means 수단
 compensation 보상

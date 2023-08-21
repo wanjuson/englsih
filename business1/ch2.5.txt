@@ -11,7 +11,10 @@ compensation 보상
 file for bankruptcy 파산 신청하다.
 bankruptcy 파산
 investigation 조사
-
+letting ~ 하게 하다.
+practice 관행
+executive 간부, 중역
+compensation 보상금
 
 3. 실전 대화
 A: Investments like stock options or international stocks may also be used.
@@ -29,4 +32,11 @@ That's unfair.
 1. 스톡옵션에 관해 아직 결정된 것 없습니다.
 There are no decisions on the stock option issues yet.
 
-2. 
+2. 우리 회사의 스톡옵션 관행에 관한 조사였어요.
+It was an investigation about our stock option practices.
+
+3. 회사가 파산 신청했을 때 그의 스톡옵션은 무용지물이 되었죠.
+His stock options became worthless when the company filed for bankruptcy.
+
+4. 임원진들의 급여 수단으로 수톡옵션은 인기있는 수단입니다.
+Stock options have become a popular means of executive compensation.

@@ -1,0 +1,45 @@
+ch4.4
+1. 핵심 키워드 : MVP minimum viable product
+스타트업이 고객에게 가치를 제공할 수 있는 최소한의 기능을 구현한 제품입니다.
+최소기능제품의 목표는 근본적인 사업 가설을 테스트하는 것입니다.
+
+
+2. 필수 어휘
+release 출시하다
+assess 평가하다
+unnecessarily 불필요하게
+preparation 준비
+over-preparation 과한 준비
+finalize 완결하다
+make use of ~를 활용하다
+Viable 실행가능한, 성공할수 있는
+be + pp ~ pp 되어진다.
+
+
+3. 실전 대화
+Our minimum viable product development was completed 5 months ago.
+저희 최소 존속 제품 개발은 5개월전에 완성되었습니다.
+Congratulations. 축하합니다.
+
+FPP launched their Minimum Viable Product on 20th January.
+FPP는 1월20일 최소 존속 제품을 론칭했습니다.
+They're such a copycat.
+완전 짜라쟁이네요.
+
+
+4. 응용연습
+a) 저희는 초기 투자를 많이 유치하려고 하기보다 최소 존속 제품을 출시했습니다.
+We did not seek a large amount of initial funding and released a minimum viable product.
+
+b) 보통 스타트업은 새로운 아이디어나 비즈니스 콘셉을 평가하고 개발하기 위해서
+취소존속 제품과 프로토타입을 만들어가며 시작합니다.
+Normally Startups begin by building a first minimum viable product(MVP),
+a prototype to assess and develop the new ideas or business concepts.
+
+c) 최소 존속 제품은 필요 이상의 생각과 과한 준비를 피할 수 있도록 해주었습니다.
+Minimum Viable Product helped us avoid over-thinking and over-preparation.
+
+d) 우리 회사의 최소 존속 제품이 아직은 최종화 되지 않았어요.
+Our minimum viable product is not yet finalized.
+
+

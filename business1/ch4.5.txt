@@ -10,6 +10,7 @@ primarily : 주로
 facilitates : 용이하게하다
 cost effectiveness : 가격 효율성
 stable : 꾸준한
+outsourced : (회사가 작업·생산을) 외부에 위탁하다
 
 
 3. 실전 대화
@@ -35,7 +36,8 @@ c) TMZ Logistics is a third party logistics provider which facilitates the door 
 TMZ Logistics는 도어 투 도어 서비스를 용이하도록 돕는 3자 물류 회사입니다.
 
 d) Cost effectiveness for the third party logistics provider is only given over longer periods of time.
- 3자 물류의 가격 효율성은 장기간의 조건에서 주어집니다
+ 3자 물류의 가격 효율성은 장기간의 조건에서 주어집니다.
+
 
 
 

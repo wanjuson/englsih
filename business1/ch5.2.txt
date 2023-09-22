@@ -11,29 +11,35 @@ established 자리잡은, 인정받은
 face 직면하다
 doubt 의심
 financial Regulator 금융 규제기관
-
+firm 회사
+make a sense 이치에 맞다.
 
 
 3. 실전 대화
 The financial technology firm was recently mentioned in Forbes Fintech 50 list.
 금융 기술 회사는 최근 포브스지 Fintech 50 목록에 언급되었습니다.
+They are so lucky.
+운이 정말 좋네요.
 
+Later, our firm invested in 'SmartBlue', a fintech company based in Singapore.
+나중에 우리 회사는 싱가포르에 기반을 둔 핀테크 회사인 'Smart Blue'에 투자 했습니다.
+Are they listed yet?
+아직 상장이 안되어 있나요?
 
 
 
 4. 응용연습
-a) Conpanies which fail to obtain financial support at one Demo day, can ateend subsequent Demo Day events.
-데모데이에서 재정적 지원을 받지 못한 회사들은 차후 데모데이에 참여 할 수 있습니다.
+a) Duley is regarded as the earliest of fintech companies.
+. Duley는 가장 초기의 핀 테크 회사로 생각됩니다.
 
-b)Our company was invited to Y Combinator's Demo Day events.
- 저희 회사는 와이 콤비네이터 데모데이 이벤트에 초청받았습니다.
+b) These funding make Team X one of the best backed fintech companies.
+이러한 자금 지원으로 Team X는 최고의 투자를 받는 핀테크 회사 중 하나가 되었습니다.
 
-c) They will host a Demo day at the end of the program.
-그들은 프로그램 마지막에 데모데이를 호스팅 할 거에요. 
+c) Fintech companies often face doubts from financial regulators.
+핀테크 회사는 종종 금융 규제기관으로부터 의심을 받습니다.
 
-d) TopCo was recognized as a top accelerator by venture capital firms during Demo Day.
-TopCo는 데모데이 동안 벤처 투자회사들로 부터 최고의 엑셀러레이터라는 인정을
-받았습니다
+d) He has made 10 investments mainly in Fintech including payments and digital media.
+그는 주로 결제를 포함한 핀테크 회사와 디지털 미디어 10군데에 투자를 했습니다.
 
 
 

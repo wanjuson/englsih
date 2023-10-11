@@ -1,0 +1,28 @@
+ch1.2 Language used in emails
+
+O Informal
+ - Active Voice
+ . The supplier has shipped the entire order.
+ - User personal pronouns
+ - Shorter Sentences
+
+O Formal
+ - Passive Voice
+  . The entire order has been shipped by the supplier.
+ - Avoid personal pronouns
+ - Focus on what not who
+
+O Sample
+ - Please sign the document. 너무 짧고 명령조로 보임
+ - I need you to sign the document. > Informal
+ - The document attached requires your signature. > formal
+ - We would appreciate it if you could review the attached document, which requires your signature.
+ 너무 김.
+ - Would it be possible for you to review the attached document, which requires your signature, at your earliest convenience?
+
+아래 문장들을 active voice 에서 passive voice 더욱 formal한 문장으로 바꿔보세요! (답은 댓글에 적어 보세요)
+
+1. Tom received the letter.
+> The letter is received by Tom.
+2. You should leave the windows open.
+> The windows should be left open by you.

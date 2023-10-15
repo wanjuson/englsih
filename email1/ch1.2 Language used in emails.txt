@@ -26,3 +26,4 @@ O Sample
 > The letter is received by Tom.
 2. You should leave the windows open.
 > The windows should be left open by you.
+수동태로 	변경하기

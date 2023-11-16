@@ -20,3 +20,5 @@ I'm allergic to peaches. 난 복숭아에 알레르기가 있어요.
 It looks delicious. 맛있어 보인다.
 
 It's very delicious. 정말 앗있다.
+Smells good. 냄사가 좋아요.
+What kind of food do you like? 어떤 종류의 음식을 좋아하세요?

@@ -28,3 +28,6 @@ It's very spicy. 굉장히 맴네.
 How does it taste? 맛이 어때?
 It's too salty.  너무 짜.
 It's up to you. 네가 결정해
+I think so. 나도 그렇게 생각해.
+I think tou're right. 너의 말이 맞는것 같아.
+I'll think about it again. 다시 생각해볼게요.

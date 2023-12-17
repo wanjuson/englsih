@@ -13,7 +13,11 @@ You look younger than your age. 나이보다 어려보여요.
 You're very sweet. 정말 친절하시군요.
 You seem very nice. 당신은 좋은분 같아요.
 
-
+You must be popular. 인기 많으시겠어요.
+You have a good heart. 당신 정말 착하시네요.
+Need some help? 도와줄까?
+No, I can manage. 아니, 내가 할 수 있어,.
+I lost my cell phone. 내 핸드폰을 일어버렸어.
 
 
 

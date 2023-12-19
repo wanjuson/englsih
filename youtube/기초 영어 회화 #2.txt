@@ -19,6 +19,13 @@ Need some help? 도와줄까?
 No, I can manage. 아니, 내가 할 수 있어,.
 I lost my cell phone. 내 핸드폰을 일어버렸어.
 
+I'm lost. 길을 잃었어.
+It's broken. 이거 망가졌어.
+I'm so sorry. 정말 미안해.
+I'm sorry, it was my mistake. 미안해, 내 실수였어.
+It's too late. 너무 늦었어.
+
+No peoblem. 괜찮아.
 
 
 

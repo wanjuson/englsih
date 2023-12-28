@@ -67,8 +67,11 @@ What are you looking for? 무엇을 찾고 계십니까?
 Where did you buy it? 이거 어디서 샀니?
 This car is very expensive. 이 차는 정말 비싸다.
 
-
-
+I can't afford this. 난 여력이 안돼
+Let me pay for this. 이건 내가 계산할께.
+What's the total? 전부 얼마에요?
+What size do you want? 어떤 사이즈를 원하세요.?
+I want 230. 230 사이즈 주세요.
 
 
 

@@ -73,6 +73,7 @@ What's the total? 전부 얼마에요?
 What size do you want? 어떤 사이즈를 원하세요.?
 I want 230. 230 사이즈 주세요.
 
+Go ahead. 먼저 하세요.
 
 
 

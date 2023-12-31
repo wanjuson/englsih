@@ -74,6 +74,14 @@ What size do you want? 어떤 사이즈를 원하세요.?
 I want 230. 230 사이즈 주세요.
 
 Go ahead. 먼저 하세요.
+I'll go first. 제가 먼저 할게요.
+It's a breeze. 엄청 쉬워요.
+Who wants to solve this problem? 누가 이 문제 풀어볼래?
+Please fill this form out. 이 양식을 작성해주세요.
+
+
+
+
 
 
 

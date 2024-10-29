@@ -79,8 +79,13 @@ It's a breeze. 엄청 쉬워요.
 Who wants to solve this problem? 누가 이 문제 풀어볼래?
 Please fill this form out. 이 양식을 작성해주세요.
 
+Wifi doesn't work. 와이파이가 안돼요.
+Are you finished with your report? 리포트 다 썼니?
+I'm working on my report. 나는 리포트를 쓰고 있어?
+It's due tomorrow. 내일까지 내야 하거든.
+It's easy to say. 말하기는 쉽지.
 
-
+commuter 통근자
 
 
 

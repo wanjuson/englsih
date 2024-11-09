@@ -85,7 +85,21 @@ I'm working on my report. 나는 리포트를 쓰고 있어?
 It's due tomorrow. 내일까지 내야 하거든.
 It's easy to say. 말하기는 쉽지.
 
+It's going to start soon. 이제 곧 시작할거에요.
+It's not yet. 아직 안됐어요.
+Not yet. 아직이야.
+I logged in. 로그인했어요.
+I logged out. 로그아웃 했어요.
+
+Is he still online? 그가 아직 접속중이니?
+May I ask a question? 질문해도 될까요?
+Good for you. 잘했다.
+How was your test? 시험은 어땟니?
+I Got a perfect score in math. 나 수학 100점 받았어.
+
 commuter 통근자
+
+
 
 
 

@@ -21,7 +21,7 @@ Let's take a quick coffee breake. 잠깐 커피 마시러 가자.
 We need a short coffee breake. 커피 좀 마시며 잠깐 쉬어야겠어요.
 Let's finish the report after lunch. 점심 식사 후에 보고서를 마무리 짓자.
 We'll continue after the break. 잠시 쉬고 이어서 할게요.
-Let's grab a cup of joe. 커피 한 잔 하자.
+Let's grab a cup of joe. 커피 한 잔 하자. 
 
 Make yourself useful. 뭐라도 좀 해봐.
 Help out here. 여기 좀 도와주세요.
@@ -30,6 +30,7 @@ You're just sitting there. 거기에 그냥 앉아 있네요.
 appropriate 적절한
 largely 대체로
 descriptive 서술적인
+face 직면하다.
 
 
 

@@ -97,7 +97,21 @@ Good for you. 잘했다.
 How was your test? 시험은 어땟니?
 I Got a perfect score in math. 나 수학 100점 받았어.
 
+I'm screwed up. 완전 망했어.
+Are you done eating? 다 먹었니?
+What do you want to have? 뭐 먹고 싶어?:
+Let's have a light lunch. 점심은 좀 가볍게 먹자.
+Dinner is ready. 저녁은 준비되었어.
+
+Do you have a table for two peopel? 두 사람이 앉을 테이블이 있나요?
+Do you want some more? 더 먹을래?
+Enjoy your meal. 맛있게 드세요.
+Let's go out for dinner. 저녁에 외식하자.
+Let's grab a bite. 뭐 좀 먹으러 가자.
+
+
 commuter 통근자
+
 
 
 

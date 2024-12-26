@@ -115,7 +115,11 @@ What's going on? 무슨일이죠?
 I need to go to the bathroom. 난 화장실 가야겠어.
 I need to pee. 소변 좀 봐야겠어요.
 
-
+I suddenly have hiccups. 갑자기 딸꾹질이 나요.
+I'm drunk. 취했어요.
+I can't digest well. 소화가 잘 안돼요.
+I have a fever. 열이 나.
+I have constipation. 나 변비에 걸렸어.
 
 commuter 통근자
 

@@ -85,6 +85,42 @@ I'm working on my report. 나는 리포트를 쓰고 있어?
 It's due tomorrow. 내일까지 내야 하거든.
 It's easy to say. 말하기는 쉽지.
 
+It's going to start soon. 이제 곧 시작할거에요.
+It's not yet. 아직 안됐어요.
+Not yet. 아직이야.
+I logged in. 로그인했어요.
+I logged out. 로그아웃 했어요.
+
+Is he still online? 그가 아직 접속중이니?
+May I ask a question? 질문해도 될까요?
+Good for you. 잘했다.
+How was your test? 시험은 어땟니?
+I Got a perfect score in math. 나 수학 100점 받았어.
+
+I'm screwed up. 완전 망했어.
+Are you done eating? 다 먹었니?
+What do you want to have? 뭐 먹고 싶어?:
+Let's have a light lunch. 점심은 좀 가볍게 먹자.
+Dinner is ready. 저녁은 준비되었어.
+
+Do you have a table for two peopel? 두 사람이 앉을 테이블이 있나요?
+Do you want some more? 더 먹을래?
+Enjoy your meal. 맛있게 드세요.
+Let's go out for dinner. 저녁에 외식하자.
+Let's grab a bite. 뭐 좀 먹으러 가자.
+
+Call the police. 경찰을 불러주세요.
+It's an emergency. 급한일이에요.
+What's going on? 무슨일이죠?
+I need to go to the bathroom. 난 화장실 가야겠어.
+I need to pee. 소변 좀 봐야겠어요.
+
+I suddenly have hiccups. 갑자기 딸꾹질이 나요.
+I'm drunk. 취했어요.
+I can't digest well. 소화가 잘 안돼요.
+I have a fever. 열이 나.
+I have constipation. 나 변비에 걸렸어.
+
 commuter 통근자
 
 
@@ -120,6 +156,9 @@ Here is for you. 널 위해 준비했어.
 My birthday is coming. 내 생일이 다가오고 있어.
 What do you want? 뭐 갖고 싶니?
 When is your birthday? 너 생일이 언제니?
+
+
+
 
 
 
